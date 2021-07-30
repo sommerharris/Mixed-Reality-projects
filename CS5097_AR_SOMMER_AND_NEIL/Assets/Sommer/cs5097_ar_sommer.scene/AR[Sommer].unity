@@ -578,7 +578,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: Ar_Winter
+          m_StringArgument: AR[Neal]
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &410310881
@@ -3007,7 +3007,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
   m_AnchoredPosition: {x: 396, y: -268.0005}
-  m_SizeDelta: {x: 724.3, y: 412.9565}
+  m_SizeDelta: {x: 724.3, y: 408.84}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2050763779
 MonoBehaviour:
