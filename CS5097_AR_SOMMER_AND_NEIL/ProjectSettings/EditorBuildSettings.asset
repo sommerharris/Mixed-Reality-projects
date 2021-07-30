@@ -5,15 +5,21 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Sommer_scene_second_project.unity
     guid: 309d88d2799c53149b3f87f6b636ab87
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/BlankAR.unity
     guid: 6bdce89659816455b9f906fc62d19910
-  - enabled: 1
+  - enabled: 0
     path: Assets/ExampleAssets/Scenes/SampleScene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Sommer/cs5097_ar_sommer.scene/AR[Sommer].unity
+    guid: 452a804ac71db5c4cb0c39f21b2ff1ac
+  - enabled: 1
+    path: Assets/Scenes/AR[Main].unity
+    guid: 5642f07085212d24bb850428ef54f027
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: f4069d7d75187604bbc9bd72482f8879,
       type: 2}
