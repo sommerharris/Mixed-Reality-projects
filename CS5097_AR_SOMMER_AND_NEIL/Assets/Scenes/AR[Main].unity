@@ -982,13 +982,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 77a74aab0d6bbb64f84fc2c387935c11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  location: {fileID: 0}
+  location: {fileID: 1691452300}
   defaultScene: AR[Main]
-  targetLatitude1: 0
-  targetLongitude1: 0
+  targetLatitude1: 49.285341432857905
+  targetLongitude1: -123.11218915705402
   targetSceneName1: AR[Sommer]
-  targetLatitude2: 0
-  targetLongitude2: 0
+  targetLatitude2: 49.285194208220524
+  targetLongitude2: -123.1124440687036
   targetSceneName2: AR[Neal]
   radius: 10
   active: 0
@@ -1075,7 +1075,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
+      - m_Target: {fileID: 1691452301}
         m_TargetAssemblyTypeName: SwitchSceneByGPS, Assembly-CSharp
         m_MethodName: toggle
         m_Mode: 1
