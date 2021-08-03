@@ -8,3 +8,5 @@ Mohd Hamza's video on Horizonal Plane Placement: https://www.youtube.com/watch?v
 Kap Koder's video on how to make objects grow with time: https://www.youtube.com/watch?v=BW6QfLKkQRE&ab_channel=KapKoder
 
 Zac's video on how to make a GPS location based AR app: https://www.youtube.com/watch?v=ZdyfjJbVvDk&list=WL&index=21&t=464s&ab_channel=Zac
+
+Zenva's video on detecting touch inputs in Unity: https://www.youtube.com/watch?v=aTtheFyh7Ac&ab_channel=Zenva
