@@ -650,8 +650,8 @@ Transform:
   m_LocalPosition: {x: 0.9125, y: -0.18700004, z: 5.001}
   m_LocalScale: {x: 0.78110003, y: 0.01, z: 0.46}
   m_Children: []
-  m_Father: {fileID: 1067670677}
-  m_RootOrder: 3
+  m_Father: {fileID: 1561466506}
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!135 &463623068
 SphereCollider:
@@ -1452,8 +1452,8 @@ Transform:
   m_LocalScale: {x: 1.2264, y: 0.01, z: 0.55}
   m_Children:
   - {fileID: 885127599}
-  m_Father: {fileID: 1067670677}
-  m_RootOrder: 4
+  m_Father: {fileID: 1561466506}
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!135 &935026079
 SphereCollider:
@@ -1804,12 +1804,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 901082580}
-  - {fileID: 1156525583}
-  - {fileID: 1755277683}
-  - {fileID: 463623067}
-  - {fileID: 935026078}
-  - {fileID: 1985031704}
-  - {fileID: 1604374620}
+  - {fileID: 1561466506}
   - {fileID: 1600171702}
   m_Father: {fileID: 0}
   m_RootOrder: 2
@@ -1945,8 +1940,8 @@ Transform:
   - {fileID: 591270098}
   - {fileID: 257780175}
   - {fileID: 929366475}
-  m_Father: {fileID: 1067670677}
-  m_RootOrder: 1
+  m_Father: {fileID: 1561466506}
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1156525584
 MonoBehaviour:
@@ -2275,6 +2270,56 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1561466505
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1561466506}
+  - component: {fileID: 1561466507}
+  m_Layer: 0
+  m_Name: Scene
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1561466506
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1561466505}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1156525583}
+  - {fileID: 1755277683}
+  - {fileID: 463623067}
+  - {fileID: 935026078}
+  - {fileID: 1985031704}
+  - {fileID: 1604374620}
+  m_Father: {fileID: 1067670677}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1561466507
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1561466505}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f637e787a81c6646b9a2ec91a4e1835, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  position: {x: 0, y: 0, z: 0}
 --- !u!1 &1600171701
 GameObject:
   m_ObjectHideFlags: 0
@@ -2305,7 +2350,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1067670677}
-  m_RootOrder: 7
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 90, y: 0, z: 0}
 --- !u!199 &1600171703
 ParticleSystemRenderer:
@@ -7103,12 +7148,12 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1604374619}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
-  m_Father: {fileID: 1067670677}
-  m_RootOrder: 6
+  m_Father: {fileID: 1561466506}
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1604374621
 MonoBehaviour:
@@ -7588,8 +7633,8 @@ Transform:
   m_Children:
   - {fileID: 1379335620}
   - {fileID: 1427077919}
-  m_Father: {fileID: 1067670677}
-  m_RootOrder: 2
+  m_Father: {fileID: 1561466506}
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!135 &1755277684
 SphereCollider:
@@ -7850,8 +7895,8 @@ Transform:
   - {fileID: 939801255}
   - {fileID: 2145376210}
   - {fileID: 1142578068}
-  m_Father: {fileID: 1067670677}
-  m_RootOrder: 5
+  m_Father: {fileID: 1561466506}
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!135 &1985031705
 SphereCollider:
