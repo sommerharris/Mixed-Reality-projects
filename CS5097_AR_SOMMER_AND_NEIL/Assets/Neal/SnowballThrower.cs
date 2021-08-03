@@ -45,7 +45,7 @@ public class SnowballThrower : MonoBehaviour
             
             if (InstantiationTimer <= 0)
             {
-                throwSnowball(200);
+                throwSnowball(500);
                 InstantiationTimer = 0.5f;
             }
         }

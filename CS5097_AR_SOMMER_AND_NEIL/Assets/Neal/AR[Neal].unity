@@ -764,7 +764,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 447e36d477a178346b4afe10fedc249b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  snowball: {fileID: 1477136550220414882, guid: 491e4750bac571e41a1e8c922a4a408c,
+  snowball: {fileID: 9113962058313797237, guid: 74e774230b1a9d1469e19edf77890f4e,
     type: 3}
   camera: {fileID: 1561032684}
 --- !u!1 &447502212 stripped
