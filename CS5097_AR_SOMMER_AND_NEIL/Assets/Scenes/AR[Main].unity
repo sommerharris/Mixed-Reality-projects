@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.44657898, g: 0.4964133, b: 0.5748178, a: 1}
+  m_IndirectSpecularColor: {r: 0.44657826, g: 0.49641263, b: 0.57481676, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -990,7 +990,7 @@ MonoBehaviour:
   targetLatitude2: 49.285194208220524
   targetLongitude2: -123.1124440687036
   targetSceneName2: AR[Neal]
-  radius: 10
+  radius: 20
   active: 0
 --- !u!1 &1698500429
 GameObject:
