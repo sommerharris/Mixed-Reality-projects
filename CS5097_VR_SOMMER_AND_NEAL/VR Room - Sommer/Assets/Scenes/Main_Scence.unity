@@ -805,7 +805,7 @@ GameObject:
   - component: {fileID: 141772956}
   - component: {fileID: 141772958}
   - component: {fileID: 141772957}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Text (TMP)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1602,7 +1602,7 @@ GameObject:
   - component: {fileID: 330598083}
   - component: {fileID: 330598082}
   - component: {fileID: 330598081}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Button
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2301,7 +2301,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4484826317379529864, guid: 6630e445344622647a2773dc4f5985a9, type: 3}
       propertyPath: m_Enabled
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6630e445344622647a2773dc4f5985a9, type: 3}
@@ -3580,7 +3580,7 @@ RectTransform:
   - {fileID: 122662628}
   - {fileID: 1193768888}
   m_Father: {fileID: 1037377506}
-  m_RootOrder: 32
+  m_RootOrder: 30
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -4021,15 +4021,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6568149357955226231, guid: abc3bda4d3a89d54fab8b81821e95aa4, type: 3}
       propertyPath: m_ConnectedAnchor.x
-      value: 15.806
+      value: 17.716
       objectReference: {fileID: 0}
     - target: {fileID: 6568149357955226231, guid: abc3bda4d3a89d54fab8b81821e95aa4, type: 3}
       propertyPath: m_ConnectedAnchor.y
-      value: 1.5970001
+      value: 0.15199998
       objectReference: {fileID: 0}
     - target: {fileID: 6568149357955226231, guid: abc3bda4d3a89d54fab8b81821e95aa4, type: 3}
       propertyPath: m_ConnectedAnchor.z
-      value: 39.488
+      value: 36.537003
       objectReference: {fileID: 0}
     - target: {fileID: 6568149358749530084, guid: abc3bda4d3a89d54fab8b81821e95aa4, type: 3}
       propertyPath: m_RootOrder
@@ -4439,7 +4439,7 @@ GameObject:
   - component: {fileID: 1121742737}
   - component: {fileID: 1121742739}
   - component: {fileID: 1121742738}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Text (TMP)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5437,6 +5437,10 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 10
       objectReference: {fileID: 0}
+    - target: {fileID: 8900502175061620263, guid: 3816cf47e159a944b84258d8aacdc7ea, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8900502175161006162, guid: 3816cf47e159a944b84258d8aacdc7ea, type: 3}
       propertyPath: m_Layer
       value: 7
@@ -5452,6 +5456,10 @@ PrefabInstance:
     - target: {fileID: 8900502175161006163, guid: 3816cf47e159a944b84258d8aacdc7ea, type: 3}
       propertyPath: m_LocalScale.z
       value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 8900502175300528939, guid: 3816cf47e159a944b84258d8aacdc7ea, type: 3}
+      propertyPath: m_Enabled
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8900502175300528951, guid: 3816cf47e159a944b84258d8aacdc7ea, type: 3}
       propertyPath: m_LocalScale.x
@@ -6351,7 +6359,7 @@ GameObject:
   - component: {fileID: 1607907119}
   - component: {fileID: 1607907118}
   - component: {fileID: 1607907117}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Button
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7453,7 +7461,7 @@ SphereCollider:
   m_GameObject: {fileID: 1866998262}
   m_Material: {fileID: 0}
   m_IsTrigger: 0
-  m_Enabled: 1
+  m_Enabled: 0
   serializedVersion: 2
   m_Radius: 0.10160005
   m_Center: {x: 0, y: -0.014711738, z: 0.00000023841858}
