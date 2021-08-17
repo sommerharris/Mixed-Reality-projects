@@ -11,7 +11,7 @@ public class ResizePlayer : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        resize();
     }
 
     // Update is called once per frame
@@ -33,6 +33,5 @@ public class ResizePlayer : MonoBehaviour
         }
         small = !small;
         transform.localScale = newScale;
-
     }
 }
