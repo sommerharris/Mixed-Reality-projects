@@ -22,6 +22,12 @@ public class ResizePlayer : MonoBehaviour
 
     public void resize()
     {
+        StartCoroutine(MyCoroutine());
+    }
+
+    IEnumerator MyCoroutine()
+    {
+        yield return 0;
         Vector3 newScale = transform.localScale;
         if (small)
         {
