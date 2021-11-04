@@ -9,7 +9,7 @@ Project description:
 
 Enter the laboratory of a mad scientist, shrink down to the size of a doll and explore the depths of their world. Through playing in this interactable virtual reality, unlock clues that bring you closer to solving the mystery of a mysterious sci-fi musical key. There are many interactable objects, a mysterious spider, and a curious puzzle to solve. The experience can take anywhere from 1 minute to 15 minutes.
 
-![](Sci-Fi Virtual Reality Lab-Poster.png)
+![](VR_images/Sci-Fi Virtual Reality Lab-Poster.png)
 
 ![](Image 1 and 2.PNG)
 
