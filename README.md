@@ -3,7 +3,7 @@ Welcome to our repo for Northeastern's mixed reality course. This repository was
 The folder 'CS5097_AR_SOMMER_AND_NEIL' contains code for a collaborative AR project, and the folder 'CS5097_VR_SOMMER_AND_NEAL' contains code for our collaborative VR project. This readme will focus on showcasing the VR project.
 
 Video trailer of the user experience for our final VR project: https://youtu.be/4Va97lnYIZ4
-You can find images from the development process in the 'FILENAME HERE' file
+You can find images from the development process and our presentation in the 'VR Final Project.pdf' file.
 
 # Project description:
 
